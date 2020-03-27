@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Hexo</title>
-  
+  <title>0cat</title>
+  <icon>https://www.gravatar.com/avatar/3e26ff576e9fc7facb6ed916980fbd9e</icon>
   
   <link href="/atom.xml" rel="self"/>
   
@@ -10,8 +10,8 @@
   <id>http://yoursite.com/</id>
   
   <author>
-    <name>John Doe</name>
-    
+    <name>0cat-r</name>
+    <email>2034009618@qq.com</email>
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
